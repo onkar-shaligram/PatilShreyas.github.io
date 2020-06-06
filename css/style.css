@@ -171,3 +171,8 @@ section {
     from, to { border-color: transparent }
     50% { border-color: orange }
   }
+
+/* Horizontal overflow fix at My work section*/
+  #myWork {
+      overflow-x: hidden;
+  }
